@@ -1,0 +1,7 @@
+{
+  "nodes": {
+    "n1": { "id": "n1", "http_addr": "kv1:8080" },
+    "n2": { "id": "n2", "http_addr": "kv2:8080" },
+    "n3": { "id": "n3", "http_addr": "kv3:8080" }
+  }
+}
